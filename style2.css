@@ -1,0 +1,33 @@
+body{
+  background-image:url("/pexels-photo-3574678.jpeg");
+  background-size: cover;
+  height: 100%;
+  color:white;
+  display: line;
+}
+.word
+{
+text-align: center;
+display: block;
+margin:30px auto;
+width:60%;
+height:20px;
+padding:5px;
+color: powderblue;
+font-family: Arial;
+
+}
+#sm{
+  border: 2px solid powderblue;
+  border-style:double;
+border-radius: 18px;
+
+}
+#pb{
+  height:60px;
+  width:60px;
+ margin:30px auto;
+ display: block;
+  border-radius:30px;
+  }
+
